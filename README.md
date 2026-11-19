@@ -40,21 +40,22 @@ A mobile service marketplace connecting customers with local service professiona
 
 **[View Worker Project](https://github.com/yosef2000138/worker-auth)**
 
-### 🔹 SENTRA — Trading Analytics Platform
+### ### 🔹 SENTRA — AI-Powered Trading Analytics Platform
 
-**Tech Stack:** Python · FastAPI · React · FinBERT · Pandas · PyTorch
+**Tech Stack:** Python · PyTorch · Hugging Face Transformers · FinBERT · FastAPI · React · Pandas
 
-A Bitcoin trading analytics platform combining financial news sentiment analysis with technical indicators to generate trading signals.
+An AI-powered Bitcoin trading analytics platform combining a fine-tuned FinBERT model for financial news sentiment classification with market analysis to generate trading signals.
 
 **Engineering Highlights:**
-- Developed a trading analytics platform using Python, FastAPI, and React.
-- Integrated FinBERT sentiment analysis with technical indicators (EMA, MACD, RSI, ATR).
-- Built REST APIs and an interactive dashboard for visualizing trading signals.
+
+- Fine-tuned a FinBERT model for Bitcoin-related financial news sentiment classification (Positive, Negative, Neutral).
+- Processed and prepared financial news datasets for model training and evaluation.
+- Integrated sentiment predictions with market data and technical analysis to generate trading signals.
+- Developed REST APIs using FastAPI and an interactive React dashboard.
 
 **[View SENTRA Project](https://github.com/yosef2000138/SENTRA-)**
 
 *Collaborative B.Sc. Software Engineering capstone project.*
-
 ---
 
 ## 📚 Engineering Background
